@@ -1,5 +1,5 @@
 public class HelloWorld {
 	public static void main (string[]args){
-		System.out.print("Hello,Jenkins+Maven!,Git");
+		System.out.print("Hello,Jenkins+Maven!");
 	}
 }
